@@ -48,6 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## For Husky configurations
 
 To install and configure husky , run the command.
-npx husky-init && npm
+npx husky-init && npm.
+
 Make sure to add "noUnusedLocals": true in tsconfig.json to make sure that
 those imports which are not used should not be commited.
