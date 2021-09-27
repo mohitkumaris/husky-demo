@@ -44,6 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## For Husky configurations
+
 To install and configure husky , run the command.
 npx husky-init && npm
 Make sure to add "noUnusedLocals": true in tsconfig.json to make sure that
